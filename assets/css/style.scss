@@ -2135,7 +2135,7 @@ h3 {
 .object {
     width: 20px;
     height: 20px;
-    background-color: #155B96;
+    background-color: #c41f19;
     float: left;
     border-radius: 50% 50% 50% 50%;
     margin-right: 20px;
@@ -3955,7 +3955,7 @@ h3 {
 /*------------- ABOUT PAGE CSS START ----------------*/
 /* About Title CSS Start */
 .about-title-bg {
-    background-image: url(../img/title-bg/1.png);
+   
     background-position: center center;
     background-size: cover;
     height: 350px;
@@ -4112,10 +4112,10 @@ h3 {
     position: relative;
     z-index: 0;
     &.bg-1 {
-        background-image: url(../img/title-bg/6.png);
+        background-image: url(../img/title-bg/6.jpg);
     }
     &.bg-2 {
-        background-image: url(../img/title-bg/7.png);
+        background-image: url(../img/title-bg/6.jpg);
     }
 
     &::before {

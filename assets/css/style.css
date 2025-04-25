@@ -4079,7 +4079,7 @@ h3 {
 /*------------- ABOUT PAGE CSS START ----------------*/
 /* About Title CSS Start */
 .about-title-bg {
-  background-image: url(../img/title-bg/1.png);
+  background-image: url(../img/title-bg/1.jpg);
   background-position: center center;
   background-size: cover;
   height: 350px;
@@ -4494,7 +4494,7 @@ h3 {
 }
 
 .contact-title-bg {
-  background-image: url(../img/title-bg/3.png);
+  background-image: url(../img/title-bg/3.jpg);
   background-position: center center;
   background-size: cover;
   height: 350px;
@@ -5253,7 +5253,7 @@ h3 {
 }
 
 .pricing-title.bg-1 {
-  background-image: url(../img/title-bg/11.png);
+  background-image: url(../img/title-bg/6.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
